@@ -23,19 +23,12 @@ A Caesar cipher is a simple method of encoding and decoding messages which is ex
 6. Restart or Exit:
    - After viewing the result, you can choose to restart the program or exit.
 
-# Prerequisites
-
-- Python 3.x
-- `art` module for displaying the program logo (install using `pip install art`)
-
 # How to Run
 
 1. Ensure you have Python installed.
 2. Install the `art` module if you haven't already: `pip install art`
-3. Run the script:
-   ```bash
-   python caesar_cipher.py
-   ```
+3. Run the script on the IDE of your choice.
+   
 # EXAMPLE
   ![1](https://github.com/user-attachments/assets/9209dedd-2a4b-4e02-97ea-f2f20dc907ca)
 
